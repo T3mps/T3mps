@@ -16,4 +16,4 @@ My main _personal_ project, **Arcane**, is a fully-featured game engine that Iâ€
 At **Kingsisle Entertainment**, I contribute to **Wizard101**, an acclaimed MMORPG with millions of registered players. My role involves implementing new features, writing backend server/client systems, and providing an immersive experience for the playerbase.
 
 ## ðŸ“« Let's Connect!
-Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/ethan-temprovich-631a34228) or [temps0602@gmail.com] for collaboration or business opportunities.
+Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/ethan-temprovich-631a34228) or [temps0602@gmail.com]() for collaboration or business opportunities.
