@@ -15,8 +15,8 @@ At **Kingsisle Entertainment**, I contribute to **Wizard101**, an acclaimed MMOR
 ### [**Arcane**](https://github.com/T3mps/Arcane)
 My main _personal_ project, **Arcane**, is a fully-featured game engine that I’ve been developing and refining in my spare time. It's designed with modern C++ practices, utilizing multiple popular and robust libraries. [View the website to learn more](https://arcane.starworks.space/).
 
-### [**Arcane**](https://github.com/T3mps/arc)
-**arc**, 'Advanced Runtime Components', exists as a lightweight stl extension. 
+### [**arc**](https://github.com/T3mps/arc)
+**Advanced Runtime Components**, exists as a lightweight stl extension. 
 
 ## 📫 Let's Connect!
 Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/ethan-temprovich-631a34228) or [temps0602@gmail.com]() for collaboration or business opportunities.
