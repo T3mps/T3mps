@@ -5,7 +5,7 @@
 I'm a self-taught programmer who started coding at the age of 9. Over the years I've honed my skills in backend development, building robust systems and efficient architectures. Currently, I work as a Software Engineer at Kingsisle Entertainment, where I'm contributing to the ongoing development of **Wizard101**, a massively popular MMORPG.
 
 ## 🔧 Skills & Technologies
-- **Languages**: C++, Java
+- **Languages**: C++, Java, Python
 - **Backend Development**: Deep experience in architecting and maintaining large-scale systems.
 
 ## 📦 Notable Projects
