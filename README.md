@@ -15,8 +15,5 @@ At **Kingsisle Entertainment**, I contribute to **Wizard101**, an acclaimed MMOR
 ### [**Astra**](https://github.com/T3mps/Astra)
 My main _personal_ project, **Astra**, is an ECS (Entity Component System) reimagined for modern CPU architectures and cache hierarchies. It's designed with modern C++ practices, and breaks from 15+ years of established ECS patterns. Instead of traditional sparse-set implementations with multiple indirections, Astra uses a SwissTable-inspired `FlatMap` for direct entity-to-component mapping.
 
-### [**arc**](https://github.com/T3mps/arc)
-**Advanced Runtime Components**, exists as a lightweight stl extension. 
-
 ## 📫 Let's Connect!
 Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/ethan-temprovich-631a34228) or [temps0602@gmail.com]() for collaboration or business opportunities.
