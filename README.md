@@ -12,8 +12,8 @@ I'm a self-taught programmer who started coding at the age of 9. Over the years 
 ### [**Wizard101**](https://www.wizard101.com/game)
 At **Kingsisle Entertainment**, I contribute to **Wizard101**, an acclaimed MMORPG with millions of registered players. My role involves implementing new features, writing backend server/client systems, and providing an immersive experience for the playerbase.
 
-### [**Arcane**](https://github.com/T3mps/Arcane)
-My main _personal_ project, **Arcane**, is a fully-featured game engine that I’ve been developing and refining in my spare time. It's designed with modern C++ practices, utilizing multiple popular and robust libraries. [View the website to learn more](https://arcane.starworks.dev/).
+### [**Astra**](https://github.com/T3mps/Astra)
+My main _personal_ project, **Astra**, is an ECS (Entity Component System) reimagined for modern CPU architectures and cache hierarchies. It's designed with modern C++ practices, and breaks from 15+ years of established ECS patterns. Instead of traditional sparse-set implementations with multiple indirections, Astra uses a SwissTable-inspired `FlatMap` for direct entity-to-component mapping.
 
 ### [**arc**](https://github.com/T3mps/arc)
 **Advanced Runtime Components**, exists as a lightweight stl extension. 
